@@ -3,9 +3,9 @@
 <img src="https://github.com/gispatial/fullstack-engineer-practical/blob/master/dashboard.png" width="100%">
 ```
 ```
-### Setel-Engineering-Test-Assessment-2020
+Setel-Engineering-Test-Assessment-2020
 Backend build using Nest.js, TypeScript, React and MongoDB.
-While application for a orders are built using ReactJS exclusively for Users to manage their orders inventory 
+While application for orders are built using ReactJS exclusively for users to manage their orders inventory 
 
 ## Getting Started
 This app is divided into two separate sections. Namely the Backend > ( Built with Nest.js & MongoDB ) and the Frontend
