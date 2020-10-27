@@ -17,7 +17,7 @@ npm install -g typescript
 ```
 
 ### Clone the repository
-To easily set up the application, clone this repository which contains directory for both sections of the project ( i.e `blog-backend` and `blog-frontend`)
+To easily set up the application, clone this repository which contains directory for both sections of the project ( i.e `backend` and `orders`)
 
 ```bash
 git clone https://github.com/gispatial/nest-react-mongod.git
@@ -25,13 +25,13 @@ git clone https://github.com/gispatial/nest-react-mongod.git
 
 ## Change directory into the newly cloned project
 ```bash
-cd nest-react-project
+cd backend
 ```
 
 ## Backend
 ### Change directory into the backend
 ```bash
-cd blog-backend
+cd backend
 ```
 
 ### Install backend dependencies
@@ -44,7 +44,7 @@ npm install
 Once the installation process is complete, create a `.env` file:
 
 ```bash
-touch .env
+.env
 ```
 
 Open the newly created file and add the following code:
