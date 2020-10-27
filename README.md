@@ -7,7 +7,7 @@ Setel-Engineering-Test-Assessment-2020 for Grade 4 Full Stack Engineer - R. Aidy
 Application repo for a orders application built with Nest.js, TypeScript, React and MongoDB.
 
 ## Getting Started
-This app is divided into two separate sections. Namely the Backend > nest-react-mongod( Built with Nest.js) and the Frontend
+This app is divided into two separate sections. Namely the Backend > ( Built with Nest.js & MongoDB ) and the Frontend
 orders( Built with React ).
 
 Install TypeScript globally on your machine if you don't have it installed already:
@@ -20,7 +20,7 @@ npm install -g typescript
 To easily set up the application, clone this repository which contains directory for both sections of the project ( i.e `blog-backend` and `blog-frontend`)
 
 ```bash
-git clone https://github.com/gispatial/fullstack-engineer-practical/.git
+git clone https://github.com/gispatial/nest-react-mongod.git
 ```
 
 ## Change directory into the newly cloned project
