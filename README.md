@@ -1,5 +1,5 @@
 # Fullstack Engineering Practical
-<center><img src="https://github.com/gispatial/fullstack-engineer-practical/blob/master/setel.png"></center>
+<img src="https://github.com/gispatial/fullstack-engineer-practical/blob/master/setel.png">
 <img src="https://github.com/gispatial/fullstack-engineer-practical/blob/master/dashboard.png" width="100%">
 ## Setel-Engineering-Test-Assessment-2020 for Grade 4 Full Stack Engineer - R. Aidy
 ```bash
@@ -7,7 +7,6 @@ Build using Nest.js, TypeScript, React and MongoDB
 
 Application repo for a orders application built with Nest.js, TypeScript, React and MongoDB.
 ```
-
 ## Getting Started
 This app is divided into two separate sections. Namely the Backend > ( Built with Nest.js & MongoDB ) and the Frontend
 orders( Built with React ).
