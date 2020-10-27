@@ -165,10 +165,10 @@ When working on the end to end tests, you can leverage cypress runner by startin
 
 
 ## Built With
-[Nest.js]()
-[Marmelab React-Admin - React.js]()
-[Auth0]() 
-[TypeScript]()
-[MongoDB]()
+```bash
+Nest.js
+React.js - React-Admin by Marmelab
+MongoDB
+```
 
 #### This Assessment is up by R. Aidy your down to earth senior grade 4 full stack frontend engineer (Malaysian)
