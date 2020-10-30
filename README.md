@@ -172,13 +172,10 @@ React.js - React-Admin by Marmelab
 MongoDB
 ```
 
-## Install Cypress for Mac, Linux, or Windows, then get started. 
-<img src="https://github.com/gispatial/nest-react-mongod/blob/master/cypress.png" width="100%">
+## Install Cypress for Mac, Linux, or Windows, then get started
 ```bash
 npm install cypress --save-dev
-```
-## Run Cypress for frontend ReactJs
-```bash
+Run
 cypress-react-unit-test init
 ```
 
