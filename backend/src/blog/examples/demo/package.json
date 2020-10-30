@@ -1,5 +1,5 @@
 {
-    "name": "orders",
+    "name": "demo",
     "version": "3.0.0",
     "private": true,
     "dependencies": {

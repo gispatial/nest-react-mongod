@@ -5,7 +5,7 @@ const customEnglishMessages: TranslationMessages = {
     ...englishMessages,
     pos: {
         search: 'Search',
-        configuration: 'Configuration',
+        configuration: 'Settings',
         language: 'Language',
         theme: {
             name: 'Theme',
@@ -26,16 +26,16 @@ const customEnglishMessages: TranslationMessages = {
                     'by %{customer_name}, one item |||| by %{customer_name}, %{nb_items} items',
             },
             welcome: {
-                title: 'Welcome to Full-stack Engineer Practical: A NestJS Order Management Backend Engineered with Front End Stack',
+                title: 'Welcome to Setel Venture Payments/Orders management system',
                 subtitle:
-                    "CRUD Spa based application built ontop NestJs + ReactJs. It's local offline status for your web browser, This fake-rest token will expire each time you reload.",
+                    "This is a Fakerest mocked data for Setel App ReactJs modules. - it's an offline spa features build with cra, and will reset each time you fefresh your browser.",
                 ra_button: '',
                 demo_button: '',
             },
         },
         menu: {
             sales: 'Sales',
-            catalog: 'Catalog',
+            catalog: 'Products',
             customers: 'Customers',
         },
     },
@@ -127,7 +127,7 @@ const customEnglishMessages: TranslationMessages = {
             },
         },
         products: {
-            name: 'Item |||| Items',
+            name: 'Inventory |||| Inventories',
             fields: {
                 category_id: 'Category',
                 height_gte: 'Min height',

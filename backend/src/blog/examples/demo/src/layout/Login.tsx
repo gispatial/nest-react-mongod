@@ -26,7 +26,7 @@ const useStyles = makeStyles(theme => ({
         minHeight: '100vh',
         alignItems: 'center',
         justifyContent: 'flex-start',
-        background: 'url(https://source.unsplash.com/random/1600x900)',
+        background: 'url(https://i0.wp.com/pandulaju.com.my/wp-content/uploads/2020/02/petronas-setel-bg.png)',
         backgroundRepeat: 'no-repeat',
         backgroundSize: 'cover',
     },
