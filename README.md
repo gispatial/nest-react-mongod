@@ -10,7 +10,7 @@ While application for orders are built using ReactJS exclusively for users to ma
 
 ## Getting Started
 This app is divided into two separate sections. Namely the Backend > ( Built with Nest.js & MongoDB ) and the Frontend
-orders( Built with React ).
+are inside > src / blog / examples/ demo | for the orders part of ReactJs components. Do take note and accept that the root orders here was pipe inside the backend.
 
 Install TypeScript globally on your machine if you don't have it installed already:
 
@@ -77,26 +77,6 @@ npm run start:dev
 
 This will start the backend application on port `5000`. This was modified to avoid confliction with the frontend application which by default will run on port `3000`
 
-
-## Frontend
-```bash
-Open another terminal from the `nest-react-mongod` and navigate to the `orders` folder to setup the frontend
-```
-
-### Frontend dependencies
-```bash
-cd orders
-npm install
-```
-
-### Run the frontend app
-
-```bash
-npm start or yarn | 
-Please run $ make build 
-then $ make run-demo
-to deploy the frontend part of Orders Management
-```
 
 ### Create .env file and include Auth0 App credentials
 
