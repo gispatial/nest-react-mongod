@@ -1,6 +1,7 @@
 # Fullstack Engineering Practical
 <img src="https://github.com/gispatial/fullstack-engineer-practical/blob/master/setel.png">
 <img src="https://github.com/gispatial/fullstack-engineer-practical/blob/master/dashboard.png" width="100%">
+<img src="https://github.com/gispatial/nest-react-mongod/blob/master/cypress.png" width="100%">
 ```
 ```
 Setel-Engineering-Test-Assessment-2020
